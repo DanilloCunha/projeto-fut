@@ -1,2 +1,1 @@
-feito no terminal 
-em fase de teste
+projeto Futebol, em analise !
